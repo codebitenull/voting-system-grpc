@@ -86,7 +86,7 @@ class VotingApp:
         # Rodapé
         footer = tk.Label(
             self.root,
-            text="Integração de Sistemas | 2024-2025",
+            text="Integração de Sistemas | 2025-2026",
             font=("Arial", 9),
             fg="gray"
         )
